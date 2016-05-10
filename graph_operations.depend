@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1462882216 source:/home/max/CBProjects/ODM/graph_operations/main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
